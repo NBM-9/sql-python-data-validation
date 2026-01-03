@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,transaction_date,status
+1,101,250,2024-01-05,completed
+2,102,-100,2024-01-10,completed
+3,103,400,2024-02-01,failed
+4,101,300,2024-02-15,completed
+5,104,0,2024-03-10,completed
